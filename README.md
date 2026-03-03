@@ -25,8 +25,8 @@ My work focuses on **designing and deploying complex multi-modal, multi-agent AI
 
 #### 1. Virtual Humans Platform (2025 - 2026)
 
-- **Stack:** Python (Google ADK), Unreal Engine, MetaHuman
-- **Overview:** Ongoing development of a platform merging multi-modal agentic AI with high-fidelity 3D rendering. The work is being developed in the context of a research project with **Charité Berlin** and combines complex LLM tool usage, persistent user-specific agent memory, and custom animation blueprints.
+- **Stack:** Python (Google ADK), Fast API, Nvidia Omniverse, Unreal Engine, MetaHuman
+- **Overview:** Development of a platform merging multi-modal agentic AI with high-fidelity 3D rendering, combining complex LLM tool usage, persistent user-specific agent memory, and custom animation blueprints.
 
 #### 2. Stateful Persona-Driven AI Agent (2025)
 
