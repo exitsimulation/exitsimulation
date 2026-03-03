@@ -23,15 +23,20 @@ My work focuses on **designing and deploying multi-modal, multi-agent AI systems
 
 ### Featured Projects
 
-#### 1. Virtual Humans Platform (2025 - 2026)
+#### 1. ARC-9 - Stateful Multi-Agent 3D Character System (2025)
 
-- **Stack:** Python (Google ADK), Fast API, Nvidia Omniverse, Unreal Engine, MetaHuman
+- **Live:** [exitsimulation.com](https://exitsimulation.com)
+- **Stack:** Python, FastAPI, Google ADK, Gemini, Next.js, Three.js, WebSockets, SQLite, Docker
+- **Overview:** Production-oriented real-time conversational AI system built around ARC-9, a stateful persona-driven agent with persistent memory, multi-agent delegation, streaming text-to-speech, synchronized subtitles, and AI-driven lip-sync for a live 3D web experience.
+- **System Design:** Designed a multimodal runtime where streamed text, streamed TTS, subtitle timing, and character animation all operate from the same playback lifecycle.
+- **Performance:** Reduced end-to-end latency by replacing blocking full-response audio generation with incremental chunk-based delivery, reaching first-audio playback in roughly 0.8-1.1 seconds while preserving pacing and immersion.
+- **Reliability:** Built resilient WebSocket transport for reconnects, turn completion, deferred playback, session-aware system messages, and browser-capability negotiation so advanced streaming is used where supported and safe fallback playback is used elsewhere.
+- **Architecture:** Implemented ARC-9 as a primary router agent that delegates tasks such as research and interaction flows to specialized sub-agents, then returns structured results through a distinct persistent character persona.
+
+#### 2. Virtual Humans Platform (2025 - 2026)
+
+- **Stack:** Python (Google ADK), FastAPI, Nvidia Omniverse, Unreal Engine, MetaHuman
 - **Overview:** Development of a platform merging multi-modal agentic AI with high-fidelity 3D rendering, combining LLM tool usage, persistent user-specific agent memory, and custom animation blueprints.
-
-#### 2. Stateful Persona-Driven AI Agent (2025)
-
-- **Stack:** FastAPI, Next.js, Google ADK, Gemini, SQLite, Docker
-- **Overview:** Production-ready full-stack agent featuring multi-agent delegation, token-authenticated APIs, and bidirectional WebSockets to drive a real-time 3D avatar with generative TTS and AI-driven lip-sync. Includes a secure GitHub OAuth admin dashboard for observability and cost management.
 
 ---
 
