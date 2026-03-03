@@ -7,7 +7,7 @@
 
 Berlin-based Creative Technologist and AI Engineer working at the intersection of **AI systems, real-time 3D, and creative technology**. With an engineering background and full-stack development experience, I design and scale robust platforms for conversational agents, generative workflows, and creative technology applications.
 
-My work focuses on **designing and deploying complex multi-modal, multi-agent AI systems** with robust backend orchestration, real-time communication layers, persistent memory, tool use, and production-ready cloud infrastructure. This systems-level AI engineering is grounded in a strong foundation across **Unreal Engine, Houdini, and web-based 3D**, allowing me to connect advanced agent architectures with real-time interactive experiences. Alongside production engineering, I also develop educational content and workshops around advanced Unreal Engine workflows.
+My work focuses on **designing and deploying multi-modal, multi-agent AI systems** with robust backend orchestration, real-time communication layers, persistent memory, tool use, and production-ready cloud infrastructure. This systems-level AI engineering is grounded in a strong foundation across **Unreal Engine, Houdini, and web-based 3D**, allowing me to connect advanced agent architectures with real-time interactive experiences. Alongside production engineering, I also develop educational content and workshops around advanced Unreal Engine workflows.
 
 ---
 
@@ -26,7 +26,7 @@ My work focuses on **designing and deploying complex multi-modal, multi-agent AI
 #### 1. Virtual Humans Platform (2025 - 2026)
 
 - **Stack:** Python (Google ADK), Fast API, Nvidia Omniverse, Unreal Engine, MetaHuman
-- **Overview:** Development of a platform merging multi-modal agentic AI with high-fidelity 3D rendering, combining complex LLM tool usage, persistent user-specific agent memory, and custom animation blueprints.
+- **Overview:** Development of a platform merging multi-modal agentic AI with high-fidelity 3D rendering, combining LLM tool usage, persistent user-specific agent memory, and custom animation blueprints.
 
 #### 2. Stateful Persona-Driven AI Agent (2025)
 
