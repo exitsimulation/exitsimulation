@@ -7,17 +7,19 @@
 
 Berlin-based Creative Technologist and AI Engineer working at the intersection of **AI systems, real-time 3D, and creative technology**. With an engineering background and full-stack development experience, I design and scale robust platforms for conversational agents, generative workflows, and creative technology applications. Open to senior roles and contract work across AI systems, creative technology, and real-time 3D.
 
-My work focuses on **designing and deploying multi-modal, multi-agent AI systems** with robust backend orchestration, real-time communication layers, persistent memory, tool use, and production-ready cloud infrastructure. A particular focus is **avatar-driven multimodal agents** that combine language, voice, animation, and real-time interaction inside coherent character systems. This systems-level AI engineering is grounded in a strong foundation across **Unreal Engine, Houdini, and web-based 3D**, allowing me to connect advanced agent architectures with interactive visual experiences. Alongside production engineering, I also develop educational content and workshops around advanced Unreal Engine workflows.
+My work focuses on **designing and deploying multi-modal, multi-agent AI systems** with robust backend orchestration, real-time communication layers, persistent memory, tool use, and production-ready cloud infrastructure. A particular focus is **avatar-driven multimodal agents** that combine language, voice, animation, and real-time interaction inside coherent character systems. This systems-level AI engineering is grounded in a strong foundation across **Unreal Engine, Houdini, and web-based 3D**, allowing me to connect advanced agent architectures with interactive visual experiences. Alongside production engineering, I also develop educational content and workshops around advanced Unreal Engine and AI workflows.
 
 ---
 
 ### Technical Knowledge
 
-- **Languages:** Python, TypeScript / JavaScript, C#, C++
-- **AI & LLMOps:** Google ADK, LangChain, OpenAI, Gemini, Vertex AI, RAG architectures, multi-agent systems, TTS pipelines, custom generation workflows
-- **Backend & Cloud:** FastAPI, NestJS, Node.js, Docker, Google Cloud Run, DigitalOcean, SQLite/PostgreSQL, WebSockets
-- **Frontend & 3D Web:** Next.js, React, Three.js, WebGL
-- **Real-Time Engines & Procedural DCC:** Unreal Engine, Unity, Houdini
+- **Languages:** Python, TypeScript / JavaScript, C#
+- **AI Systems & Orchestration:** Google ADK, LangChain, OpenAI, Gemini, Vertex AI, multi-agent systems, structured outputs, tool-using agents, TTS pipelines, custom generation workflows
+- **Backend & Realtime Systems:** FastAPI, NestJS, Node.js, WebSockets, streaming architectures, session-aware systems, token-authenticated APIs
+- **Databases & Knowledge Systems:** SQLite, PostgreSQL, Neo4j, RAG, GraphRAG, knowledge graphs, citation-grounded retrieval, semantic routing
+- **Frontend & 3D Web:** Next.js, React, Three.js, WebGL, stateful chat interfaces
+- **Cloud & Delivery:** Docker, Google Cloud Run, CI/CD workflows
+- **Realtime Engines & Procedural DCC:** Unreal Engine, MetaHuman, Unity, Houdini
 
 ---
 
