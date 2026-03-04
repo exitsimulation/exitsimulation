@@ -2,7 +2,6 @@
 
 **Creative Technologist | AI Systems Engineer**
 
-[![Website](https://img.shields.io/badge/Portfolio-exitsimulation.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://exitsimulation.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aaronjablonski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronjablonski/)
 [![Location](https://img.shields.io/badge/Location-Berlin,%20Germany-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
