@@ -28,19 +28,19 @@ My work focuses on **stateful multimodal and multi-agent systems** with robust b
 #### 1. ARC-9 - Persona-Driven Multi-Agent Avatar System (2025)
 
 - **Live:** [exitsimulation.com](https://exitsimulation.com)
+- **Concept:** A 3D avatar website agent designed to act as a virtual assistant on my behalf, with a deliberately less agreeable personality model inspired by sci-fi agents such as SHODAN, GLaDOS, and HAL rather than the default overly affirming assistant pattern.
 - **Stack:** Python, FastAPI, Google ADK, Gemini, Next.js, Three.js, WebSockets, SQLite, Docker
-- **Overview:** Production-oriented realtime agent system built around ARC-9, a stateful persona-driven character with persistent memory, multi-agent delegation, streaming speech, synchronized subtitles, and runtime lip-sync for a live 3D web experience.
+
 - **Runtime Design:** Unified streamed text, streamed TTS, subtitle timing, and avatar animation around the same playback lifecycle so conversation delivery, character performance, and UI state stay in sync.
 - **Performance & Reliability:** Replaced blocking full-turn audio generation with incremental chunk delivery, reaching first-audio playback in roughly 0.8-1.1 seconds while supporting reconnect-safe WebSocket flows, deferred playback, and browser-specific fallback behavior.
 - **Agent Architecture:** Implemented ARC-9 as a router-style primary agent that delegates research and interaction tasks to specialist sub-agents, then returns structured results through a persistent character layer.
 
 #### 2. Virtual Humans Platform (2025 - 2026)
 
+- **Description:** A platform for highly realistic 3D avatars powered by Unreal Engine 5.7 and MetaHuman, backed by a multimodal agentic backend built on Google ADK. Part of a research collaboration with **Charite Berlin**.
 - **Stack:** Python (Google ADK), FastAPI, Nvidia Omniverse, Unreal Engine, MetaHuman
-- **Overview:** Concluded research platform for embodied multimodal agents, combining conversational AI, persistent state, and high-fidelity realtime character rendering.
-- **Research Context:** Part of a research collaboration with **Charite Berlin**.
+
 - **System Design:** Integrated agent orchestration, tool use, user-specific memory, and character control logic to support interactive virtual human behavior across sessions.
-- **Realtime Pipeline:** Built the integration layer across FastAPI services, Google ADK agent logic, Omniverse workflows, and Unreal Engine / MetaHuman runtime systems to support responsive, stateful virtual human interaction.
 
 ---
 
