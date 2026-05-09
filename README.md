@@ -9,28 +9,28 @@ I'm a Berlin-based AI Engineer and Creative Technologist focused on **GenAI syst
 
 Alongside that, I have a strong foundation in **Unreal Engine, Houdini, and web-based 3D**, which lets me connect backend intelligence to interactive visual experiences end-to-end. I also run workshops on advanced Unreal Engine and AI workflows as an Unreal Engine Instructor Partner.
 
-> **Currently:** Senior Product Engineer at **Journee**, building [Ojin](https://ojin.ai), a real-time GenAI platform.
+> **Currently:** Senior Product Engineer at **[Ojin](https://ojin.ai)** (formerly Journee), a real-time GenAI platform offering blazing-fast APIs for speech-to-video and conversational AI agents.
 
 ---
 
 ### Technical Knowledge
 
-- **Languages:** Python, TypeScript / JavaScript, C#
-- **AI Systems & Agents:** Google ADK, LangChain, OpenAI, Gemini, Vertex AI, multi-agent orchestration, tool-calling agents, structured outputs, evaluation workflows, TTS pipelines
-- **Retrieval, Databases & Knowledge Graphs:** SQLite, PostgreSQL, Neo4j, RAG, GraphRAG, knowledge graphs, Cypher, semantic routing, citation-grounded retrieval
-- **Backend & Realtime Systems:** FastAPI, NestJS, Node.js, WebSockets, streaming APIs, session state, persistent memory, authenticated services
-- **Frontend & Interaction:** Next.js, React, Three.js, WebGL, stateful chat interfaces, realtime UI synchronization
-- **Cloud & Delivery:** Docker, Google Cloud Run, DigitalOcean, CI/CD workflows, observability-first deployment
-- **Realtime Engines & Procedural DCC:** Unreal Engine, MetaHuman, Unity, Houdini
+- **Languages:** Python, TypeScript, C#
+- **AI & Agents:** Google ADK, LangChain, Pipecat, OpenAI, Gemini, Vertex AI
+- **Backend & Realtime:** FastAPI, NestJS, Node.js, WebSockets, WebRTC, Redis
+- **Data & Retrieval:** PostgreSQL, SQLite, Neo4j, RAG, GraphRAG
+- **Frontend:** Next.js, React, Three.js, WebGL
+- **Cloud & DevOps:** Docker, Google Cloud, DigitalOcean, CI/CD
+- **Realtime 3D & DCC:** Unreal Engine, MetaHuman, Unity, Houdini
 
 ---
 
 ### Professional Experience
 
 <details>
-<summary><b>Senior Product Engineer · Journee</b> &nbsp;·&nbsp; <i>April 2026 — Present</i></summary>
+<summary><b>Senior Product Engineer · Ojin (formerly Journee)</b> &nbsp;·&nbsp; <i>April 2026 — Present</i></summary>
 
-> Building **Ojin**, Journee's real-time GenAI developer platform — abstracting distributed ML systems into performant, scalable, and intuitive products at the intersection of AI infrastructure and developer experience.
+> Building and scaling **Ojin**, a real-time GenAI platform offering blazing-fast APIs for speech-to-video and conversational AI agents. My focus is abstracting distributed ML systems into performant, scalable, and intuitive products at the intersection of AI infrastructure and developer experience.
 
 - **Control Planes & UX** — Architecting ultra-low-latency control planes and interactive interfaces for seamless developer experiences.
 - **Multi-Modal Pipelines** — Orchestrating realtime transport (WebRTC/LiveKit), custom binary WebSockets, and agentic workflows.
