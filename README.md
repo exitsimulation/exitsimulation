@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aaronjablonski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaronjablonski/)
 [![Location](https://img.shields.io/badge/Location-Berlin,%20Germany-4CAF50?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
-I'm a Berlin-based Full-Stack Software Engineer (AI specialization) and Creative Technologist focused on **GenAI systems, agentic software development, and real-time platforms**. I design and ship **multimodal AI products** like conversational and avatar-driven agents, along with the backend orchestration, realtime transport, and developer-facing tooling that holds them together.
+I'm a Berlin-based Full-Stack Software Engineer with a specialization in AI systems, and Creative Technologist focused on **GenAI systems, agentic software development, and real-time platforms**. I design and ship **multimodal AI products** like conversational and avatar-driven agents, built on backend orchestration, realtime transport, and developer-facing tooling.
 
-Alongside that, I have a strong foundation in **Unreal Engine, Houdini, and web-based 3D**, which lets me connect backend intelligence to interactive visual experiences end-to-end. I also run workshops on advanced Unreal Engine and AI workflows.
+I also have a background in **Unreal Engine, Houdini, and web-based 3D**, meaning I can own both the AI backend and the 3D frontend. I run workshops on Unreal Engine and AI workflows.
 
 > **Currently:** Senior Product Engineer at **[Ojin](https://ojin.ai)**, a real-time GenAI platform offering blazing-fast APIs for speech-to-video and conversational AI agents.
 
